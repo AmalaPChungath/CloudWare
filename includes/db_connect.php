@@ -2,7 +2,7 @@
 // db_connect.php
 function getDBConnection() {
     $host = "warehouse1.mysql.database.azure.com";
-    $username = "ajai";
+    $username = "amala";
     $password = "Mace@123";
     $database = "cloudware";
     
